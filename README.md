@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpendra3104" alt="pushpendra3104" /></a> </p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFgG4rzRMjJhRwxXDxktcibPItP7XOGNaRQ&s">
 
-- 🌱 I’m currently learning **C,C++,Java,Oracle**
+- 🌱 I’m currently learning **C,C++,Java,Oracle,React,Next js**
 
 - 📫 How to reach me **pushpendrasaini3104@gmail.com**
 
